@@ -22,7 +22,7 @@ I'm a passionate full-stack developer with expertise in building scalable and ef
 - **[Full-Stack]** in [MERAKI Academy] - [Date Range]
 
 ## Contact Me
-
+<a href="https://www.linkedin.com/in/yousefabuaqel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 - LinkedIn: [https://www.linkedin.com/in/yousefabuaqel/]
 - Email: [usfaql@gmail.com]
 
