@@ -1,4 +1,4 @@
-![image](https://github.com/usfaql/usfaql/assets/146733467/495ffaa5-d334-413f-99d0-ece5961dda75)# Hi, I'm Yousef Abuaqel 👋
+# Hi, I'm Yousef Abuaqel 👋
 I'm a passionate full-stack developer with expertise in building scalable and efficient web applications. My tech stack includes React.js for the frontend, Node.js with Express.js for the backend, and MongoDB for data storage. I also have strong skills in JavaScript, HTML, and CSS.
 
 ## Skills
