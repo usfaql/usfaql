@@ -1,16 +1,29 @@
 ### Hi there 👋
 
 
-**usfaql/usfaql** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Yousef Abuaqel 👋
 
-Here are some ideas to get you started:
+I'm a passionate full-stack developer with expertise in building scalable and efficient web applications. My tech stack includes React.js for the frontend, Node.js with Express.js for the backend, and MongoDB for data storage. I also have strong skills in JavaScript, HTML, and CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Skills
 
+- **Frontend**: React.js, JavaScript, HTML, CSS
+- **Backend**: Node.js, Express.js, MongoDB
+- **Other**: Git, RESTful APIs, Responsive Web Design
+
+## Projects
+
+- **[Project 5]** - Brief description of the project and your role.
+- **[Frindly]** - A social media site that allows users to post posts and interact with them
+  - **[Talent]** - Brief description of the project and your role.
+
+## Education
+
+- **[Full-Stack]** in [MERAKI Academy] - [Date Range]
+
+## Contact Me
+
+- LinkedIn: [https://www.linkedin.com/in/yousefabuaqel/]
+- Email: [usfaql@gmail.com]
+
+Feel free to reach out if you'd like to collaborate on exciting projects or discuss anything related to web development!
