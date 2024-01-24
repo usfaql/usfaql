@@ -13,7 +13,7 @@ I'm a passionate full-stack developer with expertise in building scalable and ef
 
 ## Education
 
-- **[Full-Stack]** in [MERAKI Academy] - [Date Range]
+- **Full-Stack** in MERAKI Academy - Date Range
 
 ## Contact Me
   
