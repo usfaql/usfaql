@@ -1,5 +1,5 @@
 # Hi, I'm Yousef Abuaqel 👋
-I'm a passionate full-stack developer with expertise in building scalable and efficient web applications. My tech stack includes React.js for the frontend, Node.js with Express.js for the backend, and MongoDB for data storage. I also have strong skills in JavaScript, HTML, and CSS.
+I'm a passionate full-stack developer with expertise in building scalable and efficient web applications. My tech stack includes React.js for the frontend, Node.js with Express.js for the backend, and MongoDB for data storage. I also have skills in JavaScript, HTML, and CSS.
 
 ## Skills
 
