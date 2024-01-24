@@ -28,4 +28,5 @@ I'm a passionate full-stack developer with expertise in building scalable and ef
 - LinkedIn: [https://www.linkedin.com/in/yousefabuaqel/]
 - Email: [usfaql@gmail.com]
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 Feel free to reach out if you'd like to collaborate on exciting projects or discuss anything related to web development!
