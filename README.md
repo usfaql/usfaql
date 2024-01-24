@@ -1,4 +1,4 @@
-# Hi, I'm Yousef Abuaqel 👋
+![image](https://github.com/usfaql/usfaql/assets/146733467/495ffaa5-d334-413f-99d0-ece5961dda75)# Hi, I'm Yousef Abuaqel 👋
 I'm a passionate full-stack developer with expertise in building scalable and efficient web applications. My tech stack includes React.js for the frontend, Node.js with Express.js for the backend, and MongoDB for data storage. I also have strong skills in JavaScript, HTML, and CSS.
 
 ## Skills
@@ -21,6 +21,9 @@ I'm a passionate full-stack developer with expertise in building scalable and ef
 ![Static Badge](https://img.shields.io/badge/Git-f05539?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/RESTful_APIs-487c90?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Responsive_Web_Design-d1584c?style=for-the-badge)
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,express)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs)](https://skills.thijs.gg)
 
 ## Projects
 
