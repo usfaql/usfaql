@@ -8,7 +8,6 @@ I'm a passionate full-stack developer with expertise in building scalable and ef
 ## Projects
 
 - **Project 5** - Brief description of the project and your role.
-- **Talent** - Brief description of the project and your role.
 - **Friendly** - A social media site that allows users to post posts and interact with them.
 
 ## Education
