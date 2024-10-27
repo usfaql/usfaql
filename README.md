@@ -3,7 +3,7 @@ I'm a passionate full-stack developer with expertise in building scalable and ef
 
 ## Skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,html,css,nodejs,express,mongodb,postman,git)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,postman,git)](https://skills.thijs.gg)
 
 ## Projects
 
