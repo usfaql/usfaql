@@ -22,7 +22,7 @@ I am eager to work on innovative projects that challenge me to expand my skills 
 
 ## Contact Me
 How to Connect 
-I look forward to connecting with professionals in the field and contributing to new projects. Feel free to reach out via email at [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:usfaql@gmail.com) usfaql@gmail.com or connect with me on LinkedIn [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yousefabuaqel/).
+I look forward to connecting with professionals in the field and contributing to new projects. Feel free to reach out via email at usfaql@gmail.com or connect with me on LinkedIn [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yousefabuaqel/).
 
 
 
