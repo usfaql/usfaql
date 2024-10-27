@@ -16,8 +16,8 @@ I'm a passionate full-stack developer with expertise in building scalable and ef
 
 ## Contact Me
   
-[![My Skills](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/yousefabuaqel/)
-[![My Skills](https://skills.thijs.gg/icons?i=gmail)](mailto:usfaql@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yousefabuaqel/)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:usfaql@gmail.com)
 
 
 Feel free to reach out if you'd like to collaborate on exciting projects or discuss anything related to web development!
