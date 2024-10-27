@@ -14,9 +14,9 @@ I am proficient in backend development using Node.js and Express.js to build pow
 
 ## Education
 
-- **Full-Stack** in MERAKI Academy - Date Range
+- **Full-Stack** in MERAKI Academy - from 07/10/2023 to 07/3/2024
 
-##Career Path 
+## Career Path 
 
 I am eager to work on innovative projects that challenge me to expand my skills and make a positive impact on user experiences. I value teamwork and effective communication, and I aspire to contribute to development teams focused on delivering advanced digital solutions.
 
