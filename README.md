@@ -21,13 +21,8 @@ I am proficient in backend development using Node.js and Express.js to build pow
 I am eager to work on innovative projects that challenge me to expand my skills and make a positive impact on user experiences. I value teamwork and effective communication, and I aspire to contribute to development teams focused on delivering advanced digital solutions.
 
 ## Contact Me
-How to Connect 
-I look forward to connecting with professionals in the field and contributing to new projects. Feel free to reach out via email at usfaql@gmail.com or connect with me on LinkedIn [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yousefabuaqel/).
 
+I look forward to connecting with professionals in the field and contributing to new projects. Feel free to reach out via email at  usfaql@gmail.com or connect with me on LinkedIn.
 
-
-
-
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:usfaql@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yousefabuaqel/)
