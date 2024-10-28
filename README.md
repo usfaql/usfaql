@@ -14,7 +14,7 @@ I am proficient in backend development using Node.js and Express.js to build pow
 
 ## Education
 
-- **Full-Stack** in MERAKI Academy - from 07/10/2023 to 07/3/2024
+- **Full-Stack Web Development Bootcamp** in MERAKI Academy - from 07/10/2023 to 07/3/2024
 
 ## Career Path 
 
