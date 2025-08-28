@@ -1,4 +1,5 @@
-#there 👋, I’m Yousef Abuaqel
+##there 👋, I’m Yousef Abuaqel
+
 I’m a Full-Stack Web Developer with a focus on building practical and user-friendly applications.
 I enjoy working across the stack — from designing clean UIs to implementing reliable backends.
 	•	⚡ Experienced with Node.js, Express.js, MongoDB, PostgreSQL, React.js, and JavaScript
