@@ -1,6 +1,13 @@
-# Hi, I'm Yousef Abuaqel 👋
-Hello! My name is Yousef, a recent graduate and full-stack web developer with a deep passion for building efficient and scalable web applications. I chose web development because it combines creativity and problem-solving, allowing me to turn ideas into real, impactful user experiences. My journey started by mastering the basics of programming, and I expanded my skills during an intensive bootcamp at Meraki Academy, where I completed over 700 hours working on practical projects and real-world applications.
+#there 👋, I’m Yousef Abuaqel
+I’m a Full-Stack Web Developer with a focus on building practical and user-friendly applications.
+I enjoy working across the stack — from designing clean UIs to implementing reliable backends.
+	•	⚡ Experienced with Node.js, Express.js, MongoDB, PostgreSQL, React.js, and JavaScript
+	•	🚀 Graduate of a 22-week Full-Stack Bootcamp at Meraki Academy, where I worked on real-world projects and team collaborations
+	•	💡 Interested in creating applications that are both scalable and efficient
+	•	🌱 Always exploring new tools and technologies to sharpen my skills
 
+I’m passionate about continuous learning and contributing to meaningful projects.
+Check out my repositories below 👇 — I’m always working on something new!
 ## Skills
 
 I am proficient in backend development using Node.js and Express.js to build powerful servers, along with MongoDB and PostgreSQL for efficient data management. On the frontend, I am skilled in React.js, JavaScript, HTML, and CSS, which allow me to create dynamic and user-friendly interfaces. I also have experience with Socket.IO, enabling me to build interactive real-time experiences.
