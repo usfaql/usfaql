@@ -2,11 +2,11 @@
 
 I’m a Full-Stack Web Developer with a focus on building practical and user-friendly applications.
 I enjoy working across the stack — from designing clean UIs to implementing reliable backends.
-
-	•	⚡ Experienced with Node.js, Express.js, MongoDB, PostgreSQL, React.js, and JavaScript
-	•	🚀 Graduate of a 22-week Full-Stack Bootcamp at Meraki Academy, where I worked on real-world projects and team collaborations
-	•	💡 Interested in creating applications that are both scalable and efficient
-	•	🌱 Always exploring new tools and technologies to sharpen my skills
+	
+•	⚡ Experienced with Node.js, Express.js, MongoDB, PostgreSQL, React.js, and JavaScript
+•	🚀 Graduate of a 22-week Full-Stack Bootcamp at Meraki Academy, where I worked on real-world projects and team collaborations
+•	💡 Interested in creating applications that are both scalable and efficient
+•	🌱 Always exploring new tools and technologies to sharpen my skills
 
 I’m passionate about continuous learning and contributing to meaningful projects.
 Check out my repositories below 👇 — I’m always working on something new!
